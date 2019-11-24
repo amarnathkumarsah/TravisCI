@@ -4,3 +4,4 @@ jdk:
  script: ./mvwn clean install
  notifications
   email:amarnathsuccexa5@gmail.com
+  
